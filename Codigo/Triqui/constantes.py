@@ -15,13 +15,14 @@ ANCHO_CIRCULO = 15
 ANCHO_X = 20
 
 # Colores del tablero
-FONDO_COLOR = (97, 62, 12)
+FONDO_COLOR = (255, 255, 255)  # Blanco
 
 # Lineas
-LINEA_COLOR = (0, 0, 0)
+LINEA_COLOR = (0, 0, 0)  # Negro
 
 # Color del circulo y la cruz
-COLOR_CIRCULO = (100, 100, 100)
-COLOR_X = (12, 97, 62)
+COLOR_CIRCULO = (255, 0, 0)  # Rojo
+COLOR_X = (0, 0, 255)  # Azul
 
 OFFSET = 50
+
