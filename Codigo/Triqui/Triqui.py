@@ -6,6 +6,7 @@ import pygame  # Para la interfaz gráfica del juego
 import numpy as np  # Para manejar el tablero como una matriz
 from constantes import *  # Importa las constantes definidas en otro archivo, como dimensiones de la ventana, colores, etc.
 
+
 # Inicialización de Pygame y configuración de la ventana de visualización
 pygame.init()
 screen = pygame.display.set_mode((ANCHO, ALTURA))
